@@ -62,7 +62,7 @@ To run these scripts without errors, your MATLAB environment must have the follo
 
 - **MATLAB** (R2019a or later recommended)
 - **Signal Processing Toolbox** (Required for functions such as `butter`, `filtfilt`, `iirnotch`, `findpeaks`, `spectrogram`)
-- **Wavelet Toolbox** (Required for the `cwt` function in `EEG.m`)
+- **Wavelet Toolbox** (Required for the `cwt` function in `EEG.m`) 
 
 ## 🚀 How to Use
 
